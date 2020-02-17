@@ -6,29 +6,18 @@ Areas of interest include Self-adaptive Systems, Information Security, Embedded 
 
 ## Positions 
 
-### Anchor Loans
+
+### RNP
 
 | Title  | Start | End   |
 |--------|-------|-------|
-| Python Developer | 12/2013 | 03/2014  |
+| Intern | 04/2017 | 04/2019  |
 
+Federated  identity  management  model  provides  a solution  for  credential  access  proliferation,  such  as  based  on passwords.  However,  it  only  takes  the  attacker  to  find  out  one password  in  order  to  personify  the  user  in  all  federated  service providers.  The  multi-factor  authentication  emerge  as  a  solution to increase the authentication process robustness.
 
-In December/2013 I started to work remotely as an Python Developer Intern at Anchor Loans. I was working on projects includes the internal administrative systems. 
+In this project, I worked as Intern at GT-AMPTo (Multi-Factor Authentication for Everyone) to build a solution for multi-factor authentication to be used on the CAFe Federation. 
 
-**Technologies**: Python, Pyramid Framework, MongoDB. 
- 
- 
-### Federal University of Rio Grande do Norte
-
-| Title  | Start | End   |
-|--------|-------|-------|
-| Intern | 04/2014 | 07/2015  |
-
-Scientific Initiation Scholarship at the Digital Metropolis Institute (IMD), under orientation of Carlos Eduardo da Silva. I was working on a tool to a Multicriteria Approaches for Cloud Services Selection, to solve the issue of selection of cloud services based on the analysis and use of methods, models and algorithms for selection which meet multiple criteria.
-
-With the visibility that cloud computing has been acquiring, it is observed that the provision of computational resources as services is growing increasingly, leading to a large number of services being offered. These services have heterogeneous managerial and technical specifications, so that organizations wishing to use such services need mechanisms to assist in the decision making process to choose one that best suits their needs.
-
-**Technologies**: Java and RDF. 
+**Technologies**: Raspberry Pi, Arduino, C/C++, Python, Flask Framework, FIDO and NFC.
 
 
 ### Federal University of Rio Grande do Norte
@@ -44,6 +33,30 @@ In turn, the second one refers to the development of an autonomous smart hotspot
 
 **Technologies**: Python, Flask Framework, JS, Docker, Git. 
 
+
+### Federal University of Rio Grande do Norte
+
+| Title  | Start | End   |
+|--------|-------|-------|
+| Intern | 04/2014 | 07/2015  |
+
+Scientific Initiation Scholarship at the Digital Metropolis Institute (IMD), under orientation of Carlos Eduardo da Silva. I was working on a tool to a Multicriteria Approaches for Cloud Services Selection, to solve the issue of selection of cloud services based on the analysis and use of methods, models and algorithms for selection which meet multiple criteria.
+
+With the visibility that cloud computing has been acquiring, it is observed that the provision of computational resources as services is growing increasingly, leading to a large number of services being offered. These services have heterogeneous managerial and technical specifications, so that organizations wishing to use such services need mechanisms to assist in the decision making process to choose one that best suits their needs.
+
+**Technologies**: Java and RDF. 
+
+
+### Anchor Loans
+
+| Title  | Start | End   |
+|--------|-------|-------|
+| Python Developer | 12/2013 | 03/2014  |
+
+
+In December/2013 I started to work remotely as an Python Developer Intern at Anchor Loans. I was working on projects includes the internal administrative systems. 
+
+**Technologies**: Python, Pyramid Framework, MongoDB. 
  
  
 ## Education
