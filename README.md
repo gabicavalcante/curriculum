@@ -4,8 +4,7 @@ Graduated in Information Technology at the Federal University of Rio Grande do N
 
 Areas of interest include Self-adaptive Systems, Information Security, Embedded Systems and Data Science. I am also a of the founder of PyLadies of Brasil.
 
-## Positions
-----------------------------------
+## Positions 
 
 ### Anchor Loans
 
