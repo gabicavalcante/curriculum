@@ -45,10 +45,20 @@ In turn, the second one refers to the development of an autonomous smart hotspot
 **Technologies**: Python, Flask Framework, JS, Docker, Git. 
 
  
-
+ 
+## Education
 
 | School                                 | Year      | Type                     | Major                                          |
 |----------------------------------------|-----------|--------------------------|---------------------------------------------|
 | Federal University of Rio Grande do Norte | 2016 - in progress | Bachelor              | Science Computer |
 | Université Nice Sophia Antipolis       | 2015-2016 | Sandwich Degree (exchange program BRAFITEC) |  Informatique et Gestion |
 | Federal University of Rio Grande do Norte | 2012-2016 | Bachelor              | Information Tecnology                                   |
+
+
+## Languages
+
+| Language   | Level  |  
+|------------|--------| 
+| Portuguese | Native | 
+| English    | Basic  |  
+| French     | Basic  |    
