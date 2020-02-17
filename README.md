@@ -62,3 +62,22 @@ In turn, the second one refers to the development of an autonomous smart hotspot
 | Portuguese | Native | 
 | English    | Basic  |  
 | French     | Basic  |    
+
+
+## Volunteer Work
+
+
+| Event                      | Role           | City                      | Date   |
+|----------------------------|----------------|---------------------------|--------|
+| Pyladies Brazil            | Founder        | Brazil                    | 2014   |
+| Django Girls Natal         | Mentor         | Brazil                    | Apr/16 | 
+| Django Girls Natal         | Organizer      | Brazil                    | Apr/17 | 
+| Django Girls Natal         | Organizer      | Brazil                    | Apr/18 | 
+
+
+## Talks and Workshops 
+
+| Title                    | Type     | Conference                        | City                      | Date   |
+|--------------------------|----------|-----------------------------------|---------------------------|--------|
+| What I learned with PyLadies | Talk | 1° PyLadies Brazil Conf | Natal, Brazil | Nov/18 |
+
