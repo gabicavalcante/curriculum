@@ -79,5 +79,5 @@ In turn, the second one refers to the development of an autonomous smart hotspot
 
 | Title                    | Type     | Conference                        | City                      | Date   |
 |--------------------------|----------|-----------------------------------|---------------------------|--------|
-| What I learned with PyLadies | Talk | 1° PyLadies Brazil Conf | Natal, Brazil | Nov/18 |
+| What I learned with PyLadies | Talk | 1° PyLadies Brazil Conf | Natal, Brazil | Out/18 |
 
