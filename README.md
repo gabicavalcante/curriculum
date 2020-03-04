@@ -94,3 +94,6 @@ In December/2013 I started to work remotely as an Python Developer Intern at Anc
 |--------------------------|----------|-----------------------------------|---------------------------|--------|
 | What I learned with PyLadies | Talk | 1° PyLadies Brazil Conf | Natal, Brazil | Out/18 |
 
+## Articles
+
+[Build a Secret Santa Bot for WhatsApp Using Python and Twilio](https://www.twilio.com/blog/build-secret-santa-bot-whatsapp-python-twilio
