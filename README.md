@@ -96,4 +96,6 @@ In December/2013 I started to work remotely as an Python Developer Intern at Anc
 
 ## Articles
 
-[Build a Secret Santa Bot for WhatsApp Using Python and Twilio](https://www.twilio.com/blog/build-secret-santa-bot-whatsapp-python-twilio
+- [Build a Secret Santa Bot for WhatsApp Using Python and Twilio](https://www.twilio.com/blog/build-secret-santa-bot-whatsapp-python-twilio)
+- [Python, Django and GitHub CI/CD](https://medium.com/@_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa)
+- [WebScraping, Python e Ordem da Câmara dos Vereadores](https://medium.com/@_gabiCavalcante/webscraping-python-e-ordem-da-c%C3%A2mara-dos-deputados-f6b46a088228)
