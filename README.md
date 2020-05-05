@@ -2,16 +2,41 @@
 
 Graduated in Information Technology at the Federal University of Rio Grande do Norte (UFRN) with Sandwich Degree (2015-2016) fulled funded in France (Polytech Nice Sophia) by the exchange program BRAFITEC. Undergraduate in progress in Computer Science at UFRN.
 
-Areas of interest include Self-adaptive Systems, Information Security, Embedded Systems and Data Science. I am also a of the founder of PyLadies of Brasil.
+Areas of interest include Self-adaptive Systems, Data Science, Automatization, Tests, Quality Engineer. I am also a of the founder of PyLadies of Brasil.
 
 ## Positions 
 
+### Cloudia
+
+| Title      | Start   | 
+|------------|---------| 
+| Python Dev | 03/2019 |  
+
+**Technologies**: Python, Flask Framework, Mysql, Pipelines CI/CD, Pytest.
+
+
+### TSMX
+
+| Title      | Start   | End      |
+|------------|---------|----------|
+| Python Dev | 09/2019 | 03/2020  |
+
+**Technologies**: Python, Flask Framework, Django, Postgres, Pytest.
+
+
+### Surfmappers
+
+| Title      | Start   | End      |
+|------------|---------|----------|
+| Python Dev | 01/2019 | 07/2019  |
+
+**Technologies**: Python, Flask Framework, Pyramid Framework, Mongo. 
 
 ### RNP
 
-| Title  | Start | End   |
-|--------|-------|-------|
-| Intern | 04/2017 | 04/2019  |
+| Title     | Start   | End      |
+|-----------|---------|----------|
+| FullStack | 04/2017 | 04/2019  |
 
 Federated  identity  management  model  provides  a solution  for  credential  access  proliferation,  such  as  based  on passwords.  However,  it  only  takes  the  attacker  to  find  out  one password  in  order  to  personify  the  user  in  all  federated  service providers.  The  multi-factor  authentication  emerge  as  a  solution to increase the authentication process robustness.
 
@@ -68,6 +93,13 @@ In December/2013 I started to work remotely as an Python Developer Intern at Anc
 | Federal University of Rio Grande do Norte | 2012-2016 | Bachelor              | Information Tecnology                                   |
 
 
+## Small Courses
+
+| Course Name          | Year      | Institution              | Certificate                                 |
+|----------------------|-----------|--------------------------|---------------------------------------------|
+| MongoDB Basics       | 2020      | Mongo University         | [Link](https://university.mongodb.com/course_completion/c4c38ed7-fe17-4877-a2fc-8c096451b9b8/printable) |
+
+
 ## Languages
 
 | Language   | Level  |  
@@ -96,6 +128,7 @@ In December/2013 I started to work remotely as an Python Developer Intern at Anc
 
 ## Articles
 
+- [Build a Secure Twilio Webhook with Python and FastAPI](https://www.twilio.com/blog/build-secure-twilio-webhook-python-fastapi)
 - [Build a Secret Santa Bot for WhatsApp Using Python and Twilio](https://www.twilio.com/blog/build-secret-santa-bot-whatsapp-python-twilio)
 - [Python, Django and GitHub CI/CD](https://medium.com/@_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa)
 - [WebScraping, Python e Ordem da Câmara dos Vereadores](https://medium.com/@_gabiCavalcante/webscraping-python-e-ordem-da-c%C3%A2mara-dos-deputados-f6b46a088228)
