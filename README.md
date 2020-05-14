@@ -105,8 +105,8 @@ In December/2013 I started to work remotely as an Python Developer Intern at Anc
 | Language   | Level  |  
 |------------|--------| 
 | Portuguese | Native | 
-| English    | Basic  |  
-| French     | Basic  |    
+| English    | Intermediate  |  
+| French     | A2  |    
 
 
 ## Volunteer Work
